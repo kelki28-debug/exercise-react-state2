@@ -1,0 +1,27 @@
+html{
+    font-size: 62.5%;
+    
+   
+}
+.container{
+   text-align: center;
+   
+}
+.span{
+    display: block;
+    font-size: 2rem;
+    margin-bottom: 3rem;
+}
+.img{
+    display: inline-block;
+    border-radius: 50%;
+    height: 20rem;
+    width: 20rem;
+}
+.text{
+    margin-left: 3rem;
+    display: inline-block;
+    text-align: left;
+    clear: right;
+    width: 50%;
+}

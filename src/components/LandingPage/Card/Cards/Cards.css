@@ -1,0 +1,19 @@
+.imgs{
+    width: 20rem;
+    height: 15rem;
+}
+.containers{
+    display: inline-block;
+    width: 40%;
+   padding-top: 5rem;
+    border: 2px solid black;
+    margin-left: 3rem ;
+    margin-right: 3rem;
+}
+.cards{
+   
+}
+.span1{
+    display: block;
+    font-size: 2rem;
+}
